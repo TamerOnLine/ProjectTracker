@@ -1,56 +1,56 @@
-# ملفات نظام التشغيل
+
 .DS_Store
 Thumbs.db
 
-# ملفات البيئة الافتراضية
+
 venv/
 env/
 .virtualenv/
 
-# ملفات الإعدادات الخاصة بـ IDE
+
 .idea/
 .vscode/
 *.iml
 
-# مجلدات البناء
+
 build/
 dist/
 *.egg-info/
 
-# ملفات السجلات
+
 *.log
 logs/
 
-# بيانات مؤقتة أو مؤقتة
+
 *.tmp
 *.temp
 *.bak
 *.swp
 
-# ملفات Docker
+
 *.pid
 
-# قاعدة بيانات مؤقتة
+
 *.sqlite3
 db.sqlite3
 
 #--------
 
-# ملفات الإخراج أو الترجمة
+
 *.pyc
 *.pyo
 __pycache__/
 
-# بيئة Python الافتراضية
+
 *.env
 
 #------
-# الملفات المؤقتة أو البيانات
+
 docker-compose.override.yml
 .dockerignore
 
 #--------
-# ملفات البيئة
+
 .env
 *.key
 *.pem
